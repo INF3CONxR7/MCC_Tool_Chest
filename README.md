@@ -2,7 +2,7 @@
 
 **MCC Tool Chest** est un utilitaire Windows destiné à l'exploration, à l'édition et à la conversion de mondes de **Minecraft: Legacy Console Edition**, notamment sur **PlayStation 3** et **Xbox 360**.
 
-Ce dépôt `MCC_Tool_Chest` est une **présentation et une référence non officielles** du logiciel. Il ne prétend pas être le projet original ni être affilié à ses créateurs.
+Ce dépôt `MCC_Tool_Chest` contient une **distribution Windows compilée** du logiciel ainsi qu'une **présentation non officielle**. Il ne prétend pas être le projet original ni être affilié à ses créateurs. Le code source de l'application n'est pas inclus.
 
 ## Fonctionnalités
 
@@ -27,12 +27,14 @@ Ce dépôt `MCC_Tool_Chest` est une **présentation et une référence non offic
 
 ## Installation
 
-1. Consultez la [page de téléchargement de MCC Tool Chest](https://mcctoolchest.weebly.com/download.html).
-2. Téléchargez la version **console** adaptée à votre utilisation.
-3. Installez ou exécutez l'application sur Windows.
-4. Si un composant Windows requis manque, consultez les dépendances indiquées par le site du logiciel.
+1. [Téléchargez ce dépôt au format ZIP](https://github.com/INF3CONxR7/MCC_Tool_Chest/archive/refs/heads/main.zip), ou utilisez **Code → Download ZIP** sur GitHub.
+2. Extrayez entièrement l'archive dans un dossier sur Windows.
+3. Conservez `MCCToolChest.exe`, `MCCToolChest.exe.config`, toutes les DLL et le dossier `support/` ensemble.
+4. Lancez `MCCToolChest.exe` depuis le dossier extrait.
 
-> Ce dépôt ne garantit pas la disponibilité d'un exécutable ni la maintenance du logiciel. Téléchargez uniquement des fichiers dont vous pouvez vérifier la provenance.
+La configuration fournie cible **.NET Framework 4.0**. Si un composant Windows requis manque, consultez les dépendances indiquées sur la [page de téléchargement du logiciel](https://mcctoolchest.weebly.com/download.html).
+
+> Cette copie est fournie telle quelle ; ce dépôt ne garantit pas la maintenance ni la compatibilité du logiciel avec toutes les versions de Windows ou de Minecraft.
 
 ## Utilisation avec une sauvegarde PS3
 
